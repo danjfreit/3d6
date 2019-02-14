@@ -54,5 +54,6 @@
         "Temp/":true
     },
     "workbench.colorTheme": "eppz!",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "vscode-icons",
+    "csharp.referencesCodeLens.enabled": false
 }
